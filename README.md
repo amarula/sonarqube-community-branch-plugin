@@ -174,3 +174,8 @@ download the files from this location and host them themself.
 
 If you want to try and test the current branch or build it for your development execute `./gradlew clean build`
 inside of the project directory. This will put the built jar under `libs/sonarqube-community-branch-plugin*.jar`
+
+# WebUI Change
+
+[How handle webUI update](sonarqube-webapp-addons/README.md)
+
